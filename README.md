@@ -1,0 +1,3 @@
+- Account for image preprocessing, image segmentation and analysis.
+- Calculate the share of each component and compare to the theoretical values provided by AstraZeneca.
+- Collaborate with two other team members.
